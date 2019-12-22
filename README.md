@@ -1,0 +1,90 @@
+# Exercícios de Programação Estruturada
+
+- [x] soma (check)
+- [X] Idade (check)
+- [X] ConvTemp 
+- [X] DivResto (check)
+- [X] Eq2 (check)
+- [X] Hello (check)
+- [X] Nada (check)
+- [X] Eco
+- [X] IMC (check)
+- [X] Divisores 
+- [X] Bissexto 
+- [X] Medalhas
+- [X] Espelho
+- [X] Primo (check)
+- [X] Perfeito (check)
+- [X] Minimo
+- [X] MDC 
+- [X] MMC (check)
+- [X] OfertaDeChocolates
+- [X] Arremesso 
+- [X] DuasNotas 
+- [X] Crescimento
+- [X] Libertadores
+- [X] AvesMigratorias
+- [X] PulaSapo
+- [X] Datas
+- [X] DataToStr 
+- [X] StrToData 
+- [X] DiaSeguinte
+- [X] DiaAnterior
+- [X] IMC[modularizado]
+- [X] Divisores[modularizado]
+- [X] Bissexto[modularizado]
+- [X] Medalhas[modularizado]
+- [X] Espelho[modularizado]
+- [X] Primo[modularizado]
+- [X] Perfeito[modularizado]
+- [X] Minimo[modularizado]
+- [X] MDC[modularizado] 
+- [X] MMC[modularizado] 
+- [X] BuscaSegura
+- [X] Contar
+- [X] SomaVet
+- [X] SomaVet2
+- [X] SomaMat
+- [X] SomaMat2
+- [X] SomaMat4
+- [X] SomaMatDir 
+- [X] AbaixoDiagonalPrincipal
+- [X] Transposta
+- [X] ProdMat
+- [X] Ampulheta
+- [X] Ampulheta2 (check)
+- [X] CadeWally (check)
+- [X] Pacman
+- [X] Borboletas 
+- [X] AlbumDaCopa
+- [X] Bingo 
+- [X] FatorialRecursivo
+- [X] PotenciaRecursivo
+- [X] FibonacciRecursivo
+- [X] InverterRecursivo
+- [X] ContarRecursivo
+- [X] Catalan
+- [X] PalindromoRecursivo
+- [X] DecToHex
+- [] Carteiro (Opicional)
+- [] Chocolate2 (Opicional)
+- [] NumerosPerdidos (Opicional)
+- [] Sator (Opicional)
+- [] CopaDoMundo (Opicional)
+- [] Chaves (Opicional) 
+- [X] Absoluto (check)
+- [X] Troca (check)
+- [X] Arredonda 
+- [X] Mediana (check)
+- [X] Combina (check)
+- [X] A1 (check)
+- [X] A2 
+- [X] A3
+- [X] A4 (check)
+- [X] A5
+- [X] C1
+- [X] C2
+- [X] C3
+- [X] C4 
+- [X] C5
+  
